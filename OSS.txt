@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-G211190039 - OSS - USM JAYA 
+G211190039  OSS  USM JAYA 
 
 
 Fakultas Teknologi Informasi dan Komunikasi
 
 Kota Semarang, Jawa Tengah, Indonesia
-=======
-G211190039-OSS-USM JAYA 
-
-Universitas Semarang
-
-Jl. Soekarno-Hatta, Tlogosari Kulon
->>>>>>> sub-0039-EDW
