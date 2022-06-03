@@ -73,3 +73,4 @@ Anda dapat menambahkan fitur, menghentikan bug, dan memperbaiki serta meningkatk
 3. Dapat digunakan sesuka Anda
 Software open source tidak memiliki masalah hak cipta, masalah royalti, atau pembayaran lain yang terkait dengan penggunaannya.
 
+ 
