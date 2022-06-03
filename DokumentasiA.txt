@@ -89,16 +89,3 @@ Pemutar media VCL
 Moodle
 ClamWin antivirus
 Sistem manajemen konten WordPress
-Baca juga: Hardware & Software Untuk Bekerja Remote dari Jarak Jauh
-
-Seiring dengan kemajuan internet siapapun dapat menyusun aplikasi dalam waktu singkat dengan open source.
-
-Apakah Anda salah satu orang yang suka memodifikasi dan mengembangkan software?
-
-Itulah akhir dari pembahasan terkait pengertian apa itu open source, kelebihan, kekurangan dan contoh open source.
-
-Terlepas dari itu, jika saat ini Anda sedang membutuhkan VPS murah untuk deploy website, atau cloud hosting untuk menyimpan berkas-berkas repository aplikasi.
-
-Jangan ragu untuk menggunakan layanan dari Qwords.com karena selain memiliki beragam metode pembayaran juga sudah dibekali fitur-fitur canggih untuk mengoptimalkan kebutuhan klien.
-
-Semoga bermanfaat.
